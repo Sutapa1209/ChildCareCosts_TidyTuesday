@@ -90,7 +90,7 @@ install.packages(c(
 
 ## 📁 File Structure
 
-- `ChildCare_TidyTuesday.ipynb`: Full code for data analysis and visualizations  
+- `ChildCare_Costs_TidyTuesday.ipynb`: Full code for data analysis and visualizations  
 - `README.md`: This file  
 - `figures/`: Folder containing generated plots (optional)
 
