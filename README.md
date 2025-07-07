@@ -56,7 +56,7 @@ install.packages(c(
 ## Summary of Results
 
 > Income and Childcare Costs:
- - Our descriptive analysis confirmed a clear positive relationship between income and childcare expenses, i.e. counties with higher median household income tend to have higher weekly infant care costs,
+ - Descriptive analysis confirmed a clear positive relationship between income and childcare expenses, i.e. counties with higher median household income tend to have higher weekly infant care costs,
  - Interestingly, even though median income dropped during the Great Recession (around 2008–2010), childcare costs for infants, toddlers, and preschoolers continued to rise steadily across all age groups.
 - This divergence highlights a growing burden of childcare affordability, placing greater financial strain on families with young children.
 
