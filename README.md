@@ -11,7 +11,8 @@ Welcome!
          - How gender dynamics in labor force participation rates (LFPR) influence infant childcare costs
          - The geographical distribution of infant childcare costs across U.S. states by age group
          - Differences in childcare costs by child age group (infant, toddler, preschool)
-         - Racial/ethnic disparities in childcare costs
+         - Racial/ethnic differences in childcare costs
+         - How employment patterns by occupational sector relate to childcare costs at the county level
 …etc. 
 
 ## How to Run
@@ -66,7 +67,7 @@ install.packages(c(
 - Infant care remains consistently costlier followed by Toddler, and preschool being the cheapest. 
 
 > Regional Inequities: 
--  A clear regional divide emerges, with Midwestern and Southern states generally showing lower costs across all care types. Western and Northeastern states consistently appear more       expensive regardless of age group.
+-  A clear regional divide emerges, with Midwestern and Southern states generally showing lower costs across all care types. Western and Northeastern states consistently appear more expensive regardless of age group.
 
 > Labor Force Participation and Childcare Costs
 - There is a significant relationship between labor force participation rate (LFPR) and infant care costs, and this relationship differs by gender.
@@ -75,8 +76,17 @@ install.packages(c(
 - Moreover, counties with higher female LFPR clustered in regions with both higher income and higher childcare costs.
 - This suggests that growing female workforce participation, especially in wealthier regions, may reflect increased need for formal childcare—underscoring the importance of expanding affordable care infrastructure to meet rising demand.
 
-..other demographic-based descriptive analyses were carried out showing gender-based differences in occupational categories, 
-Composition of various family structures (both parents working, only father working, only mother working, etc.), racial/ethnic composition, etc. 
+> Racial/Ethnic Group and Infantcare Costs
+- Regression analysis revealed that racial and ethnic composition is a significant predictor of infant childcare costs at the county level.
+- Counties with higher proportions of Asian residents had significantly higher weekly infant care costs, even after controlling for income and unemployment
+- In contrast, higher proportions of Black and Hispanic residents were associated with slightly lower infant care costs.
+
+> Occupation Type and Childcare Costs
+- Regions with a higher share of workers in business, science, and arts occupations tend to have higher school-age childcare costs and higher median incomes.
+- In contrast, counties with more employment in manual labor sectors like construction, production, and transportation tend to have lower childcare costs.
+- This suggests that childcare costs are shaped not only by income levels but also by the dominant occupational structure of a region.
+
+..Other descriptive analyses were also carried out, shedding light on promising avenues for future research to explore the underlying drivers of childcare cost disparities.
 
 ## 📁 File Structure
 
