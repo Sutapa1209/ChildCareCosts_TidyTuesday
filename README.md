@@ -73,7 +73,7 @@ install.packages(c(
 - Specifically, counties with higher female LFPR are associated with sharper increases in infant care costs than counties with higher male LFPR.
 - Thus, this shows infant care markets may be more responsive to women’s labor force participation (who traditionally bear more caregiving responsibilities), than males.
 - Moreover, counties with higher female LFPR clustered in regions with both higher income and higher childcare costs.
-- This suggests that increased female workforce participation may drive up demand for childcare, especially in affluent areas, contributing to higher service costs.
+- This suggests that growing female workforce participation, especially in wealthier regions, may reflect increased need for formal childcare—underscoring the importance of expanding affordable care infrastructure to meet rising demand.
 
 ..other demographic-based descriptive analyses were carried out showing gender-based differences in occupational categories, 
 Composition of various family structures (both parents working, only father working, only mother working, etc.), racial/ethnic composition, etc. 
