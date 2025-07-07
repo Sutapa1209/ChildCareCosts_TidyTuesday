@@ -78,7 +78,7 @@ install.packages(c(
 
 > Racial/Ethnic Group and Infantcare Costs
 - Regression analysis revealed that racial and ethnic composition is a significant predictor of infant childcare costs at the county level.
-- Counties with higher proportions of Asian residents had significantly higher weekly infant care costs, even after controlling for income and unemployment
+- Counties with higher proportions of Asian residents had significantly higher weekly infant care costs, even after controlling for income and unemployment (aligns with Julia Silge's analysis on this dataset using xgboost).
 - In contrast, higher proportions of Black and Hispanic residents were associated with slightly lower infant care costs.
 
 > Occupation Type and Childcare Costs
